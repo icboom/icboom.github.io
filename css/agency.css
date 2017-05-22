@@ -332,7 +332,12 @@ section h2.section-heading {
     margin-bottom: 15px;
     font-size: 40px;
 }
-
+section h3.section-natext {
+    margin-top: 0;
+    margin-bottom: 15px;
+    font-family: "Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 20px;
+}
 section h3.section-subheading {
     margin-bottom: 75px;
     text-transform: none;
