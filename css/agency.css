@@ -35,7 +35,10 @@ a.active {
 }
 
 a {
-    color: #fed136;
+    color: #000000;
+}
+fd {
+    color: #1019da;
 }
 
 a:hover,
